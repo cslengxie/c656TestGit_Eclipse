@@ -3,5 +3,5 @@
   <groupId>com.crx</groupId>
   <artifactId>C656_Git</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <packaging>war</packaging>
+  <packaging>war</packaging> 
 </project>
